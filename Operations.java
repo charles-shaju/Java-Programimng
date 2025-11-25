@@ -6,7 +6,7 @@ class Operations{
 		switch(c){
 			case 0:
 				System.out.println("Addition :"+ (a+b));
-				break;
+			]	break;
 			case 1:
 				System.out.println("Substraction: "+ (a-b));
 			         break;
