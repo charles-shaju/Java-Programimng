@@ -17,6 +17,7 @@ class sort{
                     a[j]=a[i];
                     a[i]=temp;
                 }
+                
             }
         }
         System.out.println("Sorted Array :");
